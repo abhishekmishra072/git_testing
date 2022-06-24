@@ -6,7 +6,7 @@ Hello this is a readme file '.
 ## My typing speed is 52 wpm . 
 ### Hoping to take it to 60. 
 
-```
+```C
 cout<<"hello world"<<"\n";
 
 ```
